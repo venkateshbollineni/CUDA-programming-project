@@ -1,0 +1,20 @@
+Group Members:
+        ------------------------------------------------------------------------
+        |   Krishna Khanal         800771289               krkhana@siue.edu     |
+        |   Sushrit Kafle          800792522               sukafle@siue.edu     |
+        |   Venkatesh Bollineni    800792618               vbollin@siue.edu     |
+        -------------------------------------------------------------------------
+
+
+Project consists of three programs 
+
+-thrust.cu 
+-singlethread.cu 
+-multithread.cu
+
+To compile all file:
+        make
+        
+Codes can be executed in the following format :
+        [executable name] [amount of random nums to generate] [seed value for rand] [1 to print sorted array, 0 otherwise]
+        for example: ./thrust 1000 1 1 
